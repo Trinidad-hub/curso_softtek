@@ -1,0 +1,4 @@
+<<<<<<< HEAD
+=======
+pollo
+>>>>>>> parent of 614c16d (Cambios compactados)
